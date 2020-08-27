@@ -1,5 +1,5 @@
 #page title
-page_title                                : Guitarya                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Guitarya - Learn the fretboard and improve your guitar skills                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/ic_launcher_round.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Guitarya                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Master the fretboard
+app_description                           : Level up your skills & master the fretboard
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -61,22 +61,22 @@ device_color                              : pixel-3-screenshot                  
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#007191"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#004663"
+feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#007191"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#004663"
+social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#004663"
+footer_text_color                         : "#666666"
 
 
 
